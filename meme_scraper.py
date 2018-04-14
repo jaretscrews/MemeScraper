@@ -1,3 +1,5 @@
+# A simple image scraper that pulls the top posts for the day
+
 import praw
 import wget
 import config
